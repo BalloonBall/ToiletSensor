@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "32226673589",
+    "firebase_url": "https://toilet-sense.firebaseio.com",
+    "project_id": "toilet-sense",
+    "storage_bucket": "toilet-sense.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:32226673589:android:aed673ab0fdc8f6acecffc",
+        "android_client_info": {
+          "package_name": "com.example.toiletsensor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "32226673589-i9o7sfomb0ljd3qhia4co37rr9839no9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQm_sgTKUKUwfvP2A9no_8NDyfqCtiDR4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "32226673589-i9o7sfomb0ljd3qhia4co37rr9839no9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
